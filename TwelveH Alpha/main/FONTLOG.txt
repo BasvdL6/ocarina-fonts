@@ -1,0 +1,18 @@
+FONTLOG for the TwelveHOcarinaAlphabetic font
+
+This file provides detailed information on the TwelveHOcarinaAlphabetic Font Software.
+This information should be distributed along with the TwelveHOcarinaAlphabetic font and any derivative works.
+
+Basic Font Information
+
+TwelveHOcarinaAlphabetic is a Unicode typeface that supports all standard fingerings for a twelve hole ocarina, 
+mapped to A-U or a-u, and some additional symbols that might be useful mapped to V-Z or v-z.
+
+More specifically, this release supports the following Unicode ranges: 65-90, 97-122
+
+ChangeLog
+
+24 Apr 2024 (Bas van der Linden) TwelveHOcarinaAlphabetic Version 1.0
+- Initial release
+
+
